@@ -1,2 +1,9 @@
 ﻿body {
 }
+
+#one:before {
+    background-image: url('images/IMG_6432.JPG');
+    height: 20em;
+    background-size: cover;
+
+}
