@@ -7,3 +7,13 @@
     background-size: cover;
 
 }
+.iconSize {
+    font-size: 70px;
+    color: #4ACAA8;
+}
+.rowFormat {
+    align-content:center;
+    text-align:center;
+    margin:15px;
+    height:100px;
+}
